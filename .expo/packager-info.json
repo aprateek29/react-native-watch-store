@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://hr-9aj.aprateek29.watch-store.exp.direct",
+  "packagerNgrokUrl": "https://packager.hr-9aj.aprateek29.watch-store.exp.direct",
+  "ngrokPid": 2472,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
