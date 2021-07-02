@@ -1,0 +1,6 @@
+export const LOAD_CURRENT_ITEM = "LOAD_CURRENT_ITEM";
+export const LOAD_CURRENT_BRAND = "LOAD_CURRENT_BRAND";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const GET_CART_TOTAL = "GET_CART_TOTAL";
+export const CLEAR_DATA = "CLEAR_DATA";
